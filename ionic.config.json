@@ -1,5 +1,14 @@
 {
   "name": "auth0",
-  "integrations": {},
+  "integrations": {
+    "enterprise": {
+      "keyId": 5348,
+      "productKey": "key_07c8be6144634d98ab01e2a50c1e20c1",
+      "appId": "86d8e8cc",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
+  },
   "type": "angular"
 }
